@@ -1,0 +1,21 @@
+code,industry,pe-ratio,price-fcf,price-book,price-sales,prediction
+BLL,Materials,1.37,2.73,0.91,0.53,130.17
+APD,Materials,0.67,2.72,0.04,1.34,129.98
+LIN,Materials,1.25,1.18,0.25,1.01,127.94
+ECL,Materials,0.0,1.45,0.9,1.01,127.88
+MLM,Materials,0.63,1.09,0.33,0.91,127.64
+IFF,Materials,0.86,0.94,0.22,0.64,127.55
+AVY,Materials,0.65,0.94,1.0,0.43,127.41
+LYB,Materials,0.96,0.8,0.42,0.35,127.39
+CTVA,Materials,0.82,0.68,0.12,0.49,127.2
+FMC,Materials,0.44,0.75,0.42,0.61,127.14
+MOS,Materials,0.0,0.73,0.12,0.27,127.09
+SHW,Materials,0.67,0.75,1.43,0.74,127.02
+AMCR,Materials,0.77,0.55,0.33,0.3,127.01
+DD,Materials,0.0,0.55,0.12,0.52,126.78
+EMN,Materials,0.55,0.38,0.22,0.37,126.71
+DOW,Materials,0.6,0.25,0.31,0.24,126.54
+ALB,Materials,0.71,0.0,0.35,1.05,126.07
+FCX,Materials,0.0,0.0,0.28,0.79,125.93
+MGM,Consumer Discretionary,0.0,0.0,0.14,0.72,124.11
+RCL,Consumer Discretionary,0.0,0.0,0.19,0.72,124.1
